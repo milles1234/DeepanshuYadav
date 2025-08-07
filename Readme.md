@@ -6,11 +6,11 @@
 
 ## 🚀 About Me
 
-- 🎓 **B.Tech in Computer Science (Artificial Intelligence)**, Expected 2025
+- 🎓 **B.Tech in Computer Science (Artificial Intelligence)**, Expected 2026
 - 💻 **Full-Stack Developer** with expertise in **MERN Stack**, RESTful APIs, and server-side rendering
 - 🌱 Currently exploring **AWS Cloud Services**, **Docker**, and **Microservices**
-- 🎯 Seeking **Software Development Internships** to build innovative fintech solutions and browser extensions
-- 📍 Based in **Lucknow, India**
+- 🎯 Seeking **Software Development Internships** for future growth
+- 📍 Based in **India**
 - 📧 Contact: **dy02082003@gmail.com**
 
 ## 🛠️ Tech Stack
@@ -84,25 +84,14 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deepanshu-yadav&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-yadav&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/deepanshu-yadav/<repo-name>/main/images/github-stats.png" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/deepanshu-yadav/<repo-name>/main/images/top-langs.png" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-yadav&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/deepanshu-yadav/<repo-name>/main/images/streak-stats.png" alt="GitHub Streak" />
 </p>
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=deepanshu-yadav&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-yadav&theme=tokyo-night" alt="Contribution Graph" />
-</p>
 
 ## 🎯 Current Focus
 
