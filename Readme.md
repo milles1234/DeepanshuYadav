@@ -9,8 +9,8 @@
 - 🎓 **B.Tech in Computer Science (Artificial Intelligence)**, Expected 2026
 - 💻 **Full-Stack Developer** with expertise in **MERN Stack**, RESTful APIs, and server-side rendering
 - 🌱 Currently exploring **AWS Cloud Services**, **Docker**, and **Microservices**
-- 🎯 Seeking **Software Development Internships** for future growth
-- 📍 Based in **India**
+- 🎯 Seeking **Software Development Internships** to build innovative fintech solutions and browser extensions
+- 📍 Based in **Lucknow, India**
 - 📧 Contact: **dy02082003@gmail.com**
 
 ## 🛠️ Tech Stack
@@ -81,16 +81,8 @@
 - ⚡ Managed complete development lifecycle in a fast-paced, self-motivated environment
 - 📚 Proactively learned new technologies to meet project requirements
 
-## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deepanshu-yadav/<repo-name>/main/images/github-stats.png" alt="GitHub Stats" />
-  <img src="https://raw.githubusercontent.com/deepanshu-yadav/<repo-name>/main/images/top-langs.png" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/deepanshu-yadav/<repo-name>/main/images/streak-stats.png" alt="GitHub Streak" />
-</p>
 
 
 ## 🎯 Current Focus
